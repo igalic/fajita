@@ -1,0 +1,114 @@
+#v1: infobot -- fajita -- written Fri Dec 16 16:40:21 2011
+
+_default
+--FLAGS		at
+--HOSTS		*!*@*
+
+adaptr
+--FLAGS		Tadmorstz
+--HOSTS		*!*@unaffiliated/adaptr
+
+arreyder
+--FLAGS		ATademnoprstz
+--HOSTS		*!*@apache/committer/arreyder
+
+barefoot
+--FLAGS		Tadmorstz
+--HOSTS		*!*@unaffiliated/barefoot
+
+covener
+--FLAGS		ATademnoprstz
+--HOSTS		*!*@apache/committer/covener
+
+damaestro
+--FLAGS		Tadmorstz
+--HOSTS		*!*@fedora/damaestro
+
+drbacchus
+--FLAGS		ATademnoprstz
+--HOSTS		*!*@apache/committer/rbowen
+
+ggreer
+--FLAGS		Tadmorstz
+--HOSTS		*!*@unaffiliated/angryparsley
+
+grmbl
+--FLAGS		Tadmorstz
+--HOSTS		*!*@unaffiliated/grmbl
+
+gryzor
+--FLAGS		Tadmorstz
+--HOSTS		*!*@apache/committer/gryzor
+
+immute
+--FLAGS		Tadmorstz
+--HOSTS		*!n=immute@unaffiliated/immute
+
+jink
+--FLAGS		ATademnoprstz
+--HOSTS		*!*@office.nedstat.nl
+
+jmcg
+--FLAGS		ATademnoprstz
+--HOSTS		*!*@apache/committer/igalic
+
+jpeg
+--FLAGS		Tadmorstz
+--HOSTS		*!*@unaffiliated/jpeg
+
+lamp
+--FLAGS		Tadmorstz
+--HOSTS		*!*@server10.lamp.fi
+
+megaspaz
+--FLAGS		ATademnoprstz
+--HOSTS		*!*@unaffiliated/megaspaz
+
+niq
+--FLAGS		ATademnoprstz
+--HOSTS		*!*@apache/committer/niq
+
+noirin
+--FLAGS		Tadmorstz
+--HOSTS		*!n=firebird@80.68.92.107
+
+noodl
+--FLAGS		Tadmorstz
+--HOSTS		*!*@apache/committer/noodl
+
+pctony
+--FLAGS		ATdemnoprstz
+--HOSTS		*!*@freenode/staff/apache.committer.pctony
+
+pquerna
+--FLAGS		Tadmorstz
+--HOSTS		*!*@apache/committer/pquerna
+
+rici
+--FLAGS		Tadmorstz
+--HOSTS		*!n=rici2@201.230.42.202
+
+roobarb
+--FLAGS		ATademnoprstz
+--HOSTS		*!*@unaffiliated/roobarb
+
+sjorge
+--FLAGS		ATademnoprstz
+--HOSTS		*!*@unaffiliated/sjorge
+
+sling
+--FLAGS		Tadmorstz
+--HOSTS		*!*@unaffiliated/sling
+
+thumbs
+--FLAGS		ATademnoprstz
+--HOSTS		*!*@modemcable220.141-200-24.mc.videotron.ca
+
+wrowe
+--FLAGS		Tadmorstz
+--HOSTS		*!*@apache/committer/wrowe
+
+yango
+--FLAGS		Tadmorstz
+--HOSTS		*!*@unaffiliated/yango
+

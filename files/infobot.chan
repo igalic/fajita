@@ -1,0 +1,91 @@
+#v1: infobot -- fajita -- written Fri Dec 16 16:40:21 2011
+
+#apache
+    _time_added 1245338588
+    announce "This is #apache"
+    +randomQuoteInterval
+
+#apache-es
+    _time_added 1245338591
+    autojoin fajita
+
+#apache-helpdesk
+    autojoin fajita
+
+#httpd
+    _time_added 1245338582
+    autojoin fajita
+
+#httpd-fr
+    _time_added 1245338603
+    autojoin fajita
+
+#sanjose
+    _time_added 1245338609
+    autojoin fajita
+
+_default
+    +BZFlag
+    +Dict
+    +Exchange
+    +Factoids
+    +HTTPDtype
+    +Kernel
+    +Math
+    +OnJoin
+    +Plug
+    +Quote
+    +Rss
+    +Search
+    +Topic
+    +Units
+    +UserInfo
+    +W3Search
+    +Weather
+    +Zippy
+    +allowConv
+    +allowTelling
+    +case
+    +chanServCheck
+    +cookie
+    +countdown
+    +dice
+    +dns
+    +factoidArguments
+    factoidSearch $chan _default
+    floodMessages 10:30
+    floodRepeat 2:10
+    +insult
+    +karma
+    +lart
+    +limitcheck
+    +log
+    maxDataSize 500
+    maxKeySize 100
+    maxListReplyCount 15
+    maxListReplyLength 400
+    maxVolunteerLength 512
+    minVolunteerLength 2
+    +nickometer
+    -requireQMark
+    +sed
+    +seen
+    seenFlushInterval 60
+    seenMaxDays 1500
+    +seenStats
+    +seenStoreAll
+    sendNoticeLimitBytes 1000
+    sendNoticeLimitLines 3
+    sendPrivateLimitBytes 1000
+    sendPrivateLimitLines 3
+    sendPublicLimitBytes 1000
+    sendPublicLimitLines 3
+    +slashdot
+    +spell
+    +tell
+    +verstats
+    +wikipedia
+    +wtf
+    +zfi
+    +zsi
+

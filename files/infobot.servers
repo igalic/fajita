@@ -1,0 +1,5 @@
+###
+# infobot.servers: line separated list of servers to connect to
+###
+
+chat.freenode.net
